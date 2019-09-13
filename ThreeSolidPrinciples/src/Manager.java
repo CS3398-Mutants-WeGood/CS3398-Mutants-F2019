@@ -1,3 +1,12 @@
+/* Tyler Perkins
+	-Open Close Principle: Separating the manager class allows it to be changed without affecting
+		other parts of the program.
+	-Single Responsibility: This class only handles the functionality for the manager.
+	-Interface Segregation: While this class is not an interface, it is a part of the IWorker interface,
+		which can be managed separately from any other interfaces. The IWorker interface only
+		includes similar classes, allowing other classes to be handled easier with a different interface.
+*/ 
+
 package threesolid;
 
 import java.awt.*;        // Using AWT container and component classes
