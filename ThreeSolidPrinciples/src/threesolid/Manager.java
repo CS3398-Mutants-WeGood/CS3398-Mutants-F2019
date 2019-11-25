@@ -7,6 +7,8 @@
 		includes similar classes, allowing other classes to be handled easier with a different interface.
 */ 
 
+//big boi manager
+
 package threesolid;
 
 import java.awt.*;        // Using AWT container and component classes
