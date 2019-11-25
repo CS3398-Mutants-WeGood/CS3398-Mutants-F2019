@@ -12,6 +12,9 @@ package threesolid;
 * Interface Segregation Principle: This class implements the interface segregation principle, by starting off with a thin,
 * 									 skeleton like class as to not add needless functionality and allows the specific classes to build on it.
 * */
+
+//big chungus
+
 import java.awt.*;        // Using AWT container and component classes
 import java.awt.event.*;  // Using AWT event classes and listener interfaces
 import java.io.*;
